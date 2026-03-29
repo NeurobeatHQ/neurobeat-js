@@ -1,0 +1,25 @@
+{
+  "name": "neurobeat",
+  "version": "1.0.1",
+  "description": "neuroscience for makers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeurobeatHQ/neurobeat-js.git"
+  },
+  "keywords": [
+    "neuroscience",
+    "biopotential",
+    "arduino",
+    "esp32"
+  ],
+  "author": "Neurobeat Inc.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeurobeatHQ/neurobeat-js/issues"
+  },
+  "homepage": "https://github.com/NeurobeatHQ/neurobeat-js#readme"
+}
